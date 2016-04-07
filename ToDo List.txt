@@ -1,0 +1,7 @@
+To do list:
+   Evaluate "S/N" by calculating ratio of post-filter pulse peak height to RMS of earlier part of waveform.
+   Evaluate MPE response of pulses using IceCube data (Martin Roengen can help obtain)
+   Ringing can occur due to numerical precision issues.
+   Try adding sharp bipolar pulse to signal to check IIR stability.
+   Try adding shifting baseline, or step function baseline shift.
+   
